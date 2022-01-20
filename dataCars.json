@@ -1,0 +1,72 @@
+[
+  {
+    "fuelType": "Gasoline",
+    "transmissionType": "Automatic",
+    "brand": "Mercedes",
+    "model": "Benz",
+    "year": "2020",
+    "color": "Beyaz",
+    "user": "---",
+    "userID": "---",
+    "isAvailable": true,
+    "numberPlate": "10 OS 291",
+    "deadline": "---",
+    "startDate": "---"
+  },
+  {
+    "fuelType": "Electric",
+    "transmissionType": "Automatic",
+    "brand": "Togg",
+    "model": "C600",
+    "year": "2023",
+    "color": "Kirmizi",
+    "user": "---",
+    "userID": "---",
+    "isAvailable": true,
+    "numberPlate": "34 HG 311",
+    "deadline": "---",
+    "startDate": "---"
+  },
+  {
+    "fuelType": "Gasoline",
+    "transmissionType": "Manuel",
+    "brand": "Opel",
+    "model": "Corsa",
+    "year": "2002",
+    "color": "Mavi",
+    "user": "---",
+    "userID": "---",
+    "isAvailable": true,
+    "numberPlate": "58 SV 789",
+    "deadline": "---",
+    "startDate": "---"
+  },
+  {
+    "fuelType": "Diesel",
+    "transmissionType": "Automatic",
+    "brand": "KIA",
+    "model": "Cs500x",
+    "year": "2020",
+    "color": "Sari",
+    "user": "---",
+    "userID": "---",
+    "isAvailable": true,
+    "numberPlate": "16 ACT 558",
+    "deadline": "---",
+    "startDate": "---"
+  },
+  {
+    "fuelType": "Gasoline",
+    "transmissionType": "Manuel",
+    "brand": "Toyota",
+    "model": "Yaris",
+    "year": "2015",
+    "color": "Kirmizi",
+    "user": "Nevfel Emre",
+    "userID": "45967899984",
+    "isAvailable": false,
+    "numberPlate": "10 DM 610",
+    "deadline": "04.09.2026",
+    "startDate": "21.01.2022"
+  }
+]

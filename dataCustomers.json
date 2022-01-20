@@ -1,0 +1,38 @@
+[
+  {
+    "numberPlate": "---",
+    "deadline": "---",
+    "startDate": "---",
+    "isAvailable": true,
+    "history": [],
+    "name": "Fatih",
+    "surname": "AYDIN",
+    "identity": "65421985637"
+  },
+  {
+    "numberPlate": "10 DM 610",
+    "deadline": "04.09.2026",
+    "startDate": "21.01.2022",
+    "isAvailable": false,
+    "history": [
+      {
+        "numberPlate": "10 DM 610",
+        "deadline": "17.01.2022",
+        "startDate": "08.01.2022"
+      }
+    ],
+    "name": "Nevfel Emre",
+    "surname": "CICEK",
+    "identity": "45967899984"
+  },
+  {
+    "numberPlate": "---",
+    "deadline": "---",
+    "startDate": "---",
+    "isAvailable": true,
+    "history": [],
+    "name": "Saban",
+    "surname": "SABANOGLU",
+    "identity": "32165498561"
+  }
+]
